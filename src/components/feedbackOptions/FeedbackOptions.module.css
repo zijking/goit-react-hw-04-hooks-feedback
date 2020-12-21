@@ -1,0 +1,21 @@
+.button, .button:active{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 2px;
+    background-color: #ffffff;
+    border: 1px solid #F0F0F0;
+    border-radius: 5px;;
+    
+}
+
+.button:hover{
+    background-color: #F0F0F0;
+    /* outline:1px solid #F0F0F0;; */
+}
+
+.button:active{
+    background-color: #267CEF;
+    border: 1px solid transparent;
+}
